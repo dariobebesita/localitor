@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(116, 208, 116);
+}
+
+p {
+    color: blueviolet;
+}
+img.top-corner {
+    float: right;
+    margin: 10px;
+}
+
+img.top {
+    float: left;
+    margin: 10px;
+}
+
+img.tos {
+    float: right;
+    margin: 10px;
+}
+img.loli{
+    float: center;
+    margin: 100px;
+}
+
+h1{
+    color: aquamarine;
+}
+
+.lass {
+    color: rgb(37, 3, 68);
+}
